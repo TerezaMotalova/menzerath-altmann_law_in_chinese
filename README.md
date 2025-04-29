@@ -28,7 +28,7 @@ Based on the achieved results, several conclusions can be drawn. The law is capa
 Keywords: quantitative linguistics, Menzerath-Altmann law, construct, constituent, language unit, Chinese language, sentence, clause, syntactic phrase, word, Chinese character
 
 
-Link: TBA
+Link: https://theses.cz/id/vqk2ml/?lang=en
 
 
 Language material
